@@ -1,10 +1,6 @@
 # nft_develop_starterpack
 
-NFT 개발 스타터팩
-
-- 블록체인 개념
-- 이더리움, 솔리디티
-- 디앱 개발
+NFT 개발 스타터팩 [ 블록체인 개념, 이더리움, 솔리디티, 디앱 개발 ]
 
 > [Ch 01. 블록체인 배경지식](https://github.com/sjh9391985/nft_develop_starterpack/tree/main/ch01)
 
